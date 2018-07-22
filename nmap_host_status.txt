@@ -1,0 +1,7 @@
+# Nmap 7.60 scan initiated Sun Feb 11 15:55:39 2018 as: nmap -sn -iL dns_enum_hosts.txt --send-ip -oG nmap_host_status.txt
+Host: 10.0.0.90 ()	Status: Up
+Host: 10.0.0.106 ()	Status: Up
+Host: 10.0.0.105 ()	Status: Up
+Host: 10.0.0.104 ()	Status: Up
+Host: 10.0.0.103 ()	Status: Up
+# Nmap done at Sun Feb 11 15:55:52 2018 -- 5 IP addresses (5 hosts up) scanned in 13.13 seconds

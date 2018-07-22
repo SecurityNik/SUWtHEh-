@@ -1,0 +1,23 @@
+
+===================================================================
+Follow: tcp,ascii
+Filter: tcp.stream eq 6033
+Node 0: 10.0.0.102:33088
+Node 1: 10.0.0.90:389
+0
+
+	0
+
+0
+
+51
+0....-...c....$..
+..
+.......d.....objectClass0.....
+	2581
+0........d.......0.....0....&..currentTime1.......20180212005036.0Z0....X..subschemaSubentry1....?.=CN=Aggregate,CN=Schema,CN=Configuration,DC=securitynik,DC=lab0......dsServiceName1....n.lCN=NTDS Settings,CN=DC,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=securitynik,DC=lab0.......namingContexts1.......DC=securitynik,DC=lab.&CN=Configuration,DC=securitynik,DC=lab.0CN=Schema,CN=Configuration,DC=securitynik,DC=lab.'DC=DomainDnsZones,DC=securitynik,DC=lab.'DC=ForestDnsZones,DC=securitynik,DC=lab0....3..defaultNamingContext1.......DC=securitynik,DC=lab0....M..schemaNamingContext1....2.0CN=Schema,CN=Configuration,DC=securitynik,DC=lab0....J..configurationNamingContext1....(.&CN=Configuration,DC=securitynik,DC=lab0....6..rootDomainNamingContext1.......DC=securitynik,DC=lab0.......supportedControl1.......1.2.840.113556.1.4.319..1.2.840.113556.1.4.801..1.2.840.113556.1.4.473..1.2.840.113556.1.4.528..1.2.840.113556.1.4.417..1.2.840.113556.1.4.619..1.2.840.113556.1.4.841..1.2.840.113556.1.4.529..1.2.840.113556.1.4.805..1.2.840.113556.1.4.521..1.2.840.113556.1.4.970..1.2.840.113556.1.4.1338..1.2.840.113556.1.4.474..1.2.840.113556.1.4.1339..1.2.840.113556.1.4.1340..1.2.840.113556.1.4.1413..2.16.840.1.113730.3.4.9..2.16.840.1.113730.3.4.10..1.2.840.113556.1.4.1504..1.2.840.113556.1.4.1852..1.2.840.113556.1.4.802..1.2.840.113556.1.4.1907..1.2.840.113556.1.4.1948..1.2.840.113556.1.4.1974..1.2.840.113556.1.4.1341..1.2.840.113556.1.4.2026..1.2.840.113556.1.4.2064..1.2.840.113556.1.4.2065..1.2.840.113556.1.4.20660...."..supportedLDAPVersion1.......3..20.......supportedLDAPPolicies1.......MaxPoolThreads..MaxDatagramRecv..MaxReceiveBuffer..InitRecvTimeout..MaxConnections..MaxConnIdleTime..MaxPageSize..MaxQueryDuration..MaxTempTableSize..MaxResultSetSize.MinResultSets..MaxResultSetsPerConn..MaxNotificationPerConn..MaxValRange0...."..highestCommittedUSN1.......164770....I..supportedSASLMechanisms1....*..GSSAPI.
+GSS-SPNEGO..EXTERNAL.
+DIGEST-MD50....'..dnsHostName1.......DC.securitynik.lab0....<..ldapServiceName1....%.#securitynik.lab:dc$@SECURITYNIK.LAB0....o.
+serverName1....].[CN=DC,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=securitynik,DC=lab0.......supportedCapabilities1....|..1.2.840.113556.1.4.800..1.2.840.113556.1.4.1670..1.2.840.113556.1.4.1791..1.2.840.113556.1.4.1935..1.2.840.113556.1.4.20800.......isSynchronized1.......TRUE0...."..isGlobalCatalogReady1.......TRUE0.......domainFunctionality1.......00.......forestFunctionality1.......00....(..domainControllerFunctionality1.......40........e.....
+......
+===================================================================

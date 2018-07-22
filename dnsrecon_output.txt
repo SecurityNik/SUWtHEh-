@@ -1,0 +1,94 @@
+[*] Performing General Enumeration of Domain: securitynik.lab
+[*] Checking for Zone Transfer for securitynik.lab name servers
+[*] Resolving SOA Record
+[+] 	 SOA dc.securitynik.lab 10.0.0.90
+[*] Resolving NS Records
+[*] NS Servers found:
+[*] 	NS dc.securitynik.lab 10.0.0.90
+[*] Removing any duplicate NS server IP Addresses...
+[*]  
+[*] Trying NS server 10.0.0.90
+[+] 10.0.0.90 Has port 53 TCP Open
+[+] Zone Transfer was successful!!
+[*] 	 NS dc.securitynik.lab 10.0.0.90
+[*] 	 NS dc.securitynik.lab 10.0.0.90
+[*] 	 A @.securitynik.lab 10.0.0.90
+[*] 	 A webgoat.securitynik.lab 10.0.0.106
+[*] 	 A mutillidae.securitynik.lab 10.0.0.106
+[*] 	 A xp.securitynik.lab 10.0.0.106
+[*] 	 A metasploitable.securitynik.lab 10.0.0.105
+[*] 	 A 2k3.securitynik.lab 10.0.0.104
+[*] 	 A ForestDnsZones.securitynik.lab 10.0.0.90
+[*] 	 A win10.securitynik.lab 10.0.0.103
+[*] 	 A DomainDnsZones.securitynik.lab 10.0.0.90
+[*] 	 A dc.securitynik.lab 10.0.0.90
+[*] 	 A DAM.securitynik.lab 10.0.0.106
+[*] 	 SRV _ldap._tcp.Default-First-Site-Name._sites.ForestDnsZones.securitynik.lab dc 389 100 no_ip
+[*] 	 SRV _kpasswd._udp.securitynik.lab dc 464 100 no_ip
+[*] 	 SRV _gc._tcp.securitynik.lab dc 3268 100 no_ip
+[*] 	 SRV _ldap._tcp.Default-First-Site-Name._sites.DomainDnsZones.securitynik.lab dc 389 100 no_ip
+[*] 	 SRV _ldap._tcp.ForestDnsZones.securitynik.lab dc 389 100 no_ip
+[*] 	 SRV _gc._tcp.Default-First-Site-Name._sites.securitynik.lab dc 3268 100 no_ip
+[*] 	 SRV _ldap._tcp.DomainDnsZones.securitynik.lab dc 389 100 no_ip
+[*] 	 SRV _kpasswd._tcp.securitynik.lab dc 464 100 no_ip
+[*] 	 SRV _kerberos._udp.securitynik.lab dc 88 100 no_ip
+[*] 	 SRV _kerberos._tcp.securitynik.lab dc 88 100 no_ip
+[*] 	 SRV _ldap._tcp.Default-First-Site-Name._sites.securitynik.lab dc 389 100 no_ip
+[*] 	 SRV _ldap._tcp.securitynik.lab dc 389 100 no_ip
+[*] 	 SRV _kerberos._tcp.Default-First-Site-Name._sites.securitynik.lab dc 88 100 no_ip
+[*] Checking for Zone Transfer for securitynik.lab name servers
+[*] Resolving SOA Record
+[+] 	 SOA dc.securitynik.lab 10.0.0.90
+[*] Resolving NS Records
+[*] NS Servers found:
+[*] 	NS dc.securitynik.lab 10.0.0.90
+[*] Removing any duplicate NS server IP Addresses...
+[*]  
+[*] Trying NS server 10.0.0.90
+[+] 10.0.0.90 Has port 53 TCP Open
+[+] Zone Transfer was successful!!
+[*] 	 NS dc.securitynik.lab 10.0.0.90
+[*] 	 NS dc.securitynik.lab 10.0.0.90
+[*] 	 A @.securitynik.lab 10.0.0.90
+[*] 	 A webgoat.securitynik.lab 10.0.0.106
+[*] 	 A mutillidae.securitynik.lab 10.0.0.106
+[*] 	 A xp.securitynik.lab 10.0.0.106
+[*] 	 A metasploitable.securitynik.lab 10.0.0.105
+[*] 	 A 2k3.securitynik.lab 10.0.0.104
+[*] 	 A ForestDnsZones.securitynik.lab 10.0.0.90
+[*] 	 A win10.securitynik.lab 10.0.0.103
+[*] 	 A DomainDnsZones.securitynik.lab 10.0.0.90
+[*] 	 A dc.securitynik.lab 10.0.0.90
+[*] 	 A DAM.securitynik.lab 10.0.0.106
+[*] 	 SRV _ldap._tcp.Default-First-Site-Name._sites.ForestDnsZones.securitynik.lab dc 389 100 no_ip
+[*] 	 SRV _kpasswd._udp.securitynik.lab dc 464 100 no_ip
+[*] 	 SRV _gc._tcp.securitynik.lab dc 3268 100 no_ip
+[*] 	 SRV _ldap._tcp.Default-First-Site-Name._sites.DomainDnsZones.securitynik.lab dc 389 100 no_ip
+[*] 	 SRV _ldap._tcp.ForestDnsZones.securitynik.lab dc 389 100 no_ip
+[*] 	 SRV _gc._tcp.Default-First-Site-Name._sites.securitynik.lab dc 3268 100 no_ip
+[*] 	 SRV _ldap._tcp.DomainDnsZones.securitynik.lab dc 389 100 no_ip
+[*] 	 SRV _kpasswd._tcp.securitynik.lab dc 464 100 no_ip
+[*] 	 SRV _kerberos._udp.securitynik.lab dc 88 100 no_ip
+[*] 	 SRV _kerberos._tcp.securitynik.lab dc 88 100 no_ip
+[*] 	 SRV _ldap._tcp.Default-First-Site-Name._sites.securitynik.lab dc 389 100 no_ip
+[*] 	 SRV _ldap._tcp.securitynik.lab dc 389 100 no_ip
+[*] 	 SRV _kerberos._tcp.Default-First-Site-Name._sites.securitynik.lab dc 88 100 no_ip
+[-] DNSSEC is not configured for securitynik.lab
+[*] 	 SOA dc.securitynik.lab 10.0.0.90
+[*] 	 NS dc.securitynik.lab 10.0.0.90
+[-] 	 Recursion enabled on NS Server 10.0.0.90
+[-] Could not Resolve MX Records for securitynik.lab
+[*] 	 A securitynik.lab 10.0.0.90
+[*] Enumerating SRV Records
+[*] 	 SRV _gc._tcp.securitynik.lab dc.securitynik.lab 10.0.0.90 3268 100
+[*] 	 SRV _kerberos._tcp.securitynik.lab dc.securitynik.lab 10.0.0.90 88 100
+[*] 	 SRV _ldap._tcp.securitynik.lab dc.securitynik.lab 10.0.0.90 389 100
+[*] 	 SRV _kerberos._udp.securitynik.lab dc.securitynik.lab 10.0.0.90 88 100
+[*] 	 SRV _kerberos._tcp.dc._msdcs.securitynik.lab dc.securitynik.lab 10.0.0.90 88 100
+[*] 	 SRV _ldap._tcp.ForestDNSZones.securitynik.lab dc.securitynik.lab 10.0.0.90 389 100
+[*] 	 SRV _kpasswd._tcp.securitynik.lab dc.securitynik.lab 10.0.0.90 464 100
+[*] 	 SRV _ldap._tcp.dc._msdcs.securitynik.lab dc.securitynik.lab 10.0.0.90 389 100
+[*] 	 SRV _ldap._tcp.gc._msdcs.securitynik.lab dc.securitynik.lab 10.0.0.90 3268 100
+[*] 	 SRV _ldap._tcp.pdc._msdcs.securitynik.lab dc.securitynik.lab 10.0.0.90 389 100
+[*] 	 SRV _kpasswd._udp.securitynik.lab dc.securitynik.lab 10.0.0.90 464 100
+[+] 11 Records Found

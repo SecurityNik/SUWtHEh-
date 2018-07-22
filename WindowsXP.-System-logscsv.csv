@@ -1,0 +1,373 @@
+﻿Level,Date and Time,Source,Event ID,Task Category
+Warning,2018-03-13 8:46:50 PM,W32Time,36,None,"The description for Event ID 36 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+49152
+"
+Information,2018-03-13 8:46:53 AM,Application Popup,26,None,"The description for Event ID 26 from source Application Popup cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+Low Battery
+You should change your battery or switch to outlet power immediately to keep from losing your work.
+
+the message resource is present but the message is not found in the string/message table
+"
+Error,2018-03-13 7:54:37 AM,W32Time,29,None,"The description for Event ID 29 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+480
+"
+Error,2018-03-13 7:54:37 AM,W32Time,17,None,"The description for Event ID 17 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+time.windows.com,0x1
+A socket operation was attempted to an unreachable host. (0x80072751)
+480
+"
+Error,2018-03-13 3:51:34 AM,W32Time,29,None,"The description for Event ID 29 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+239
+"
+Error,2018-03-13 3:51:34 AM,W32Time,17,None,"The description for Event ID 17 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+time.windows.com,0x1
+A socket operation was attempted to an unreachable host. (0x80072751)
+240
+"
+Error,2018-03-12 10:49:07 PM,W32Time,29,None,"The description for Event ID 29 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+120
+"
+Error,2018-03-12 10:49:07 PM,W32Time,17,None,"The description for Event ID 17 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+time.windows.com,0x1
+A socket operation was attempted to an unreachable host. (0x80072751)
+120
+"
+Error,2018-03-12 9:49:07 PM,W32Time,29,None,"The description for Event ID 29 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+60
+"
+Error,2018-03-12 9:49:07 PM,W32Time,17,None,"The description for Event ID 17 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+time.windows.com,0x1
+A socket operation was attempted to an unreachable host. (0x80072751)
+60
+"
+Error,2018-03-12 9:19:07 PM,W32Time,29,None,"The description for Event ID 29 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+30
+"
+Error,2018-03-12 9:19:07 PM,W32Time,17,None,"The description for Event ID 17 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+time.windows.com,0x1
+A socket operation was attempted to an unreachable host. (0x80072751)
+30
+"
+Information,2018-03-12 9:03:58 PM,Service Control Manager,7036,None,The Remote Access Connection Manager service entered the running state.
+Information,2018-03-12 9:03:58 PM,Service Control Manager,7035,None,The Remote Access Connection Manager service was successfully sent a start control.
+Information,2018-03-12 9:03:58 PM,Service Control Manager,7036,None,The Telephony service entered the running state.
+Error,2018-03-12 9:03:58 PM,System Error,1003,(102),"The description for Event ID 1003 from source System Error cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+10000050
+ffe0281c
+00000001
+f5f075a5
+00000000
+"
+Information,2018-03-12 9:03:57 PM,Service Control Manager,7036,None,The SSDP Discovery Service service entered the running state.
+Information,2018-03-12 9:03:57 PM,Service Control Manager,7035,None,The SSDP Discovery Service service was successfully sent a start control.
+Information,2018-03-12 9:03:56 PM,Service Control Manager,7036,None,The Application Layer Gateway Service service entered the running state.
+Information,2018-03-12 9:03:56 PM,Service Control Manager,7035,None,The Application Layer Gateway Service service was successfully sent a start control.
+Information,2018-03-12 9:03:56 PM,Service Control Manager,7036,None,The Fast User Switching Compatibility service entered the running state.
+Information,2018-03-12 9:03:56 PM,Service Control Manager,7036,None,The Network Location Awareness (NLA) service entered the running state.
+Information,2018-03-12 9:03:56 PM,Service Control Manager,7035,None,The Network Location Awareness (NLA) service was successfully sent a start control.
+Information,2018-03-12 9:03:56 PM,Service Control Manager,7035,None,The Fast User Switching Compatibility service was successfully sent a start control.
+Information,2018-03-12 9:03:56 PM,Service Control Manager,7036,None,The Terminal Services service entered the running state.
+Information,2018-03-12 9:03:56 PM,Service Control Manager,7035,None,The Terminal Services service was successfully sent a start control.
+Error,2018-03-12 9:03:52 PM,W32Time,29,None,"The description for Event ID 29 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+14
+"
+Error,2018-03-12 9:03:52 PM,W32Time,17,None,"The description for Event ID 17 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+time.windows.com,0x1
+A socket operation was attempted to an unreachable host. (0x80072751)
+15
+"
+Error,2018-03-12 9:03:52 PM,Service Control Manager,7000,None,"The Sysmon service failed to start due to the following error: 
+The system cannot find the file specified."
+Error,2018-03-12 9:03:52 PM,W32Time,29,None,"The description for Event ID 29 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+14
+"
+Error,2018-03-12 9:03:52 PM,W32Time,17,None,"The description for Event ID 17 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+time.windows.com,0x1
+A socket operation was attempted to an unreachable host. (0x80072751)
+15
+"
+Information,2018-03-12 9:03:42 PM,Save Dump,1001,None,"The description for Event ID 1001 from source Save Dump cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+0x10000050 (0xffe0281c, 0x00000001, 0xf65495a5, 0x00000000)
+C:\WINDOWS\Minidump\Mini031318-02.dmp
+"
+Information,2018-03-12 9:03:41 PM,EventLog,6005,None,The Event log service was started.
+Information,2018-03-12 9:03:41 PM,EventLog,6009,None,Microsoft (R) Windows (R) 5.01. 2600 Service Pack 3 Uniprocessor Free.
+Information,2018-03-12 9:03:05 PM,Service Control Manager,7036,None,The Application Layer Gateway Service service entered the running state.
+Information,2018-03-12 9:03:05 PM,Service Control Manager,7035,None,The Application Layer Gateway Service service was successfully sent a start control.
+Information,2018-03-12 9:03:04 PM,Service Control Manager,7036,None,The SSDP Discovery Service service entered the running state.
+Information,2018-03-12 9:03:04 PM,Service Control Manager,7036,None,The Network Location Awareness (NLA) service entered the running state.
+Information,2018-03-12 9:03:04 PM,Service Control Manager,7035,None,The SSDP Discovery Service service was successfully sent a start control.
+Information,2018-03-12 9:03:04 PM,Service Control Manager,7035,None,The Network Location Awareness (NLA) service was successfully sent a start control.
+Information,2018-03-12 9:03:04 PM,Service Control Manager,7036,None,The Fast User Switching Compatibility service entered the running state.
+Information,2018-03-12 9:03:04 PM,Service Control Manager,7035,None,The Fast User Switching Compatibility service was successfully sent a start control.
+Information,2018-03-12 9:03:04 PM,Service Control Manager,7036,None,The Terminal Services service entered the running state.
+Error,2018-03-12 9:03:00 PM,W32Time,29,None,"The description for Event ID 29 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+14
+"
+Error,2018-03-12 9:03:00 PM,W32Time,17,None,"The description for Event ID 17 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+time.windows.com,0x1
+A socket operation was attempted to an unreachable host. (0x80072751)
+15
+"
+Error,2018-03-12 9:03:00 PM,W32Time,29,None,"The description for Event ID 29 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+14
+"
+Error,2018-03-12 9:03:00 PM,W32Time,17,None,"The description for Event ID 17 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+time.windows.com,0x1
+A socket operation was attempted to an unreachable host. (0x80072751)
+15
+"
+Error,2018-03-12 9:03:00 PM,Service Control Manager,7000,None,"The Sysmon service failed to start due to the following error: 
+The system cannot find the file specified."
+Information,2018-03-12 9:02:50 PM,Save Dump,1001,None,"The description for Event ID 1001 from source Save Dump cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+0x10000050 (0xffe0281c, 0x00000001, 0xf5f075a5, 0x00000000)
+C:\WINDOWS\Minidump\Mini031318-01.dmp
+"
+Information,2018-03-12 9:02:48 PM,EventLog,6005,None,The Event log service was started.
+Information,2018-03-12 9:02:48 PM,EventLog,6009,None,Microsoft (R) Windows (R) 5.01. 2600 Service Pack 3 Uniprocessor Free.
+Error,2018-03-12 8:20:55 AM,W32Time,29,None,"The description for Event ID 29 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+960
+"
+Error,2018-03-12 8:20:55 AM,W32Time,17,None,"The description for Event ID 17 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+time.windows.com,0x1
+A socket operation was attempted to an unreachable host. (0x80072751)
+960
+"
+Warning,2018-03-12 6:14:07 AM,W32Time,36,None,"The description for Event ID 36 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+49152
+"
+Information,2018-03-12 1:05:44 AM,Application Popup,26,None,"The description for Event ID 26 from source Application Popup cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+winpmem-2.1.post4.exe - Entry Point Not Found
+The procedure entry point strerror_s could not be located in the dynamic link library msvcrt.dll. 
+
+the message resource is present but the message is not found in the string/message table
+"
+Error,2018-03-12 12:33:24 AM,Windows Update Agent,16,(6),"The description for Event ID 16 from source Windows Update Agent cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+"
+Error,2018-03-12 12:20:00 AM,W32Time,29,None,"The description for Event ID 29 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+480
+"
+Error,2018-03-12 12:20:00 AM,W32Time,17,None,"The description for Event ID 17 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+time.windows.com,0x1
+A socket operation was attempted to an unreachable host. (0x80072751)
+480
+"
+Information,2018-03-11 11:14:52 PM,Service Control Manager,7036,None,The yIxrhjNgHmsiIZTo service entered the stopped state.
+Information,2018-03-11 11:14:52 PM,Service Control Manager,7036,None,The yIxrhjNgHmsiIZTo service entered the running state.
+Information,2018-03-11 11:14:52 PM,Service Control Manager,7035,None,The yIxrhjNgHmsiIZTo service was successfully sent a start control.
+Information,2018-03-11 10:55:53 PM,Service Control Manager,7036,None,The XovVtSzOFmYDwtUc service entered the stopped state.
+Information,2018-03-11 10:55:53 PM,Service Control Manager,7036,None,The XovVtSzOFmYDwtUc service entered the running state.
+Information,2018-03-11 10:55:53 PM,Service Control Manager,7035,None,The XovVtSzOFmYDwtUc service was successfully sent a start control.
+Error,2018-03-11 8:19:58 PM,W32Time,29,None,"The description for Event ID 29 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+240
+"
+Error,2018-03-11 8:19:58 PM,W32Time,17,None,"The description for Event ID 17 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+time.windows.com,0x1
+A socket operation was attempted to an unreachable host. (0x80072751)
+240
+"
+Information,2018-03-11 6:38:35 PM,Service Control Manager,7035,None,The Network Monitor Driver service was successfully sent a start control.
+Error,2018-03-11 6:19:57 PM,W32Time,29,None,"The description for Event ID 29 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+120
+"
+Error,2018-03-11 6:19:57 PM,W32Time,17,None,"The description for Event ID 17 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+time.windows.com,0x1
+A socket operation was attempted to an unreachable host. (0x80072751)
+120
+"
+Error,2018-03-11 5:19:56 PM,W32Time,29,None,"The description for Event ID 29 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+60
+"
+Error,2018-03-11 5:19:56 PM,W32Time,17,None,"The description for Event ID 17 from source W32Time cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+time.windows.com,0x1
+A socket operation was attempted to an unreachable host. (0x80072751)
+60
+"
+Error,2018-03-11 4:52:30 PM,BROWSER,8032,None,"The description for Event ID 8032 from source BROWSER cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+\Device\NetBT_Tcpip_{E9C27706-FAAC-481F-844C-FEC6C469AA61}
+"

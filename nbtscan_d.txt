@@ -1,0 +1,227 @@
+Doing NBT name scan for addresses from dns_enum_hosts.txt
+
+
+Packet dump for Host 10.0.0.90:
+
+Incomplete packet, 191 bytes long.
+Transaction ID: 0x03a5 (933)
+Flags: 0x8400 (33792)
+Question count: 0x0000 (0)
+Answer count: 0x0001 (1)
+Name service count: 0x0000 (0)
+Additional record count: 0x0000 (0)
+Question name:  CKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Question type: 0x0021 (33)
+Question class: 0x0001 (1)
+Time to live: 0x00000000 (0)
+Rdata length: 0x0089 (137)
+Number of names: 0x05 (5)
+Names received:
+DC                Service: 0x00 Flags: 0x0004
+SECURITYNIK       Service: 0x00 Flags: 0x0084
+SECURITYNIK       Service: 0x1c Flags: 0x0084
+DC                Service: 0x20 Flags: 0x0004
+SECURITYNIK       Service: 0x1b Flags: 0x0004
+Adapter address: 08:00:27:74:45:7d
+Version major: 0x00 (0)
+Version minor: 0x00 (0)
+Duration: 0x0000 (0)
+FRMRs Received: 0x%04 (0)
+FRMRs Transmitted: 0x%04 (0)
+IFrame Receive errors: 0x%04 (0)
+Transmit aborts: 0x%04 (0)
+Transmitted: 0x%08 (0)
+Received: 0x%08 (0)
+IFrame transmit errors: 0x%04 (0)
+No receive buffers: 0x%04 (0)
+tl timeouts: 0x%04 (0)
+ti timeouts: 0x%04 (0)
+Free NCBS: 0x%04 (0)
+NCBS: 0x%04 (0)
+Max NCBS: 0x%04 (0)
+No transmit buffers: 0x%04 (0)
+Max datagram: 0x%04 (0)
+Pending sessions: 0x%04 (0)
+Max sessions: 0x%04 (0)
+Packet sessions: 0x%04 (0)
+
+Packet dump for Host 10.0.0.106:
+
+Incomplete packet, 191 bytes long.
+Transaction ID: 0x03a5 (933)
+Flags: 0x8400 (33792)
+Question count: 0x0000 (0)
+Answer count: 0x0001 (1)
+Name service count: 0x0000 (0)
+Additional record count: 0x0000 (0)
+Question name:  CKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Question type: 0x0021 (33)
+Question class: 0x0001 (1)
+Time to live: 0x00000000 (0)
+Rdata length: 0x0077 (119)
+Number of names: 0x04 (4)
+Names received:
+SECURITYNIK-XP    Service: 0x00 Flags: 0x0004
+SECURITYNIK-XP    Service: 0x20 Flags: 0x0004
+WORKGROUP         Service: 0x00 Flags: 0x0084
+WORKGROUP         Service: 0x1e Flags: 0x0084
+Adapter address: 08:00:27:69:a9:62
+Version major: 0x00 (0)
+Version minor: 0x00 (0)
+Duration: 0x0000 (0)
+FRMRs Received: 0x%04 (0)
+FRMRs Transmitted: 0x%04 (0)
+IFrame Receive errors: 0x%04 (0)
+Transmit aborts: 0x%04 (0)
+Transmitted: 0x%08 (0)
+Received: 0x%08 (0)
+IFrame transmit errors: 0x%04 (0)
+No receive buffers: 0x%04 (0)
+tl timeouts: 0x%04 (0)
+ti timeouts: 0x%04 (0)
+Free NCBS: 0x%04 (0)
+NCBS: 0x%04 (0)
+Max NCBS: 0x%04 (0)
+No transmit buffers: 0x%04 (0)
+Max datagram: 0x%04 (0)
+Pending sessions: 0x%04 (0)
+Max sessions: 0x%04 (0)
+Packet sessions: 0x%04 (0)
+
+Packet dump for Host 10.0.0.105:
+
+Incomplete packet, 335 bytes long.
+Transaction ID: 0x03a5 (933)
+Flags: 0x8400 (33792)
+Question count: 0x0000 (0)
+Answer count: 0x0001 (1)
+Name service count: 0x0000 (0)
+Additional record count: 0x0000 (0)
+Question name:  CKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Question type: 0x0021 (33)
+Question class: 0x0001 (1)
+Time to live: 0x00000000 (0)
+Rdata length: 0x0119 (281)
+Number of names: 0x0d (13)
+Names received:
+METASPLOITABLE    Service: 0x00 Flags: 0x0004
+METASPLOITABLE    Service: 0x03 Flags: 0x0004
+METASPLOITABLE    Service: 0x20 Flags: 0x0004
+METASPLOITABLE    Service: 0x00 Flags: 0x0004
+METASPLOITABLE    Service: 0x03 Flags: 0x0004
+METASPLOITABLE    Service: 0x20 Flags: 0x0004
+__MSBROWSE__   Service: 0x01 Flags: 0x0084
+WORKGROUP         Service: 0x00 Flags: 0x0084
+WORKGROUP         Service: 0x1d Flags: 0x0004
+WORKGROUP         Service: 0x1e Flags: 0x0084
+WORKGROUP         Service: 0x00 Flags: 0x0084
+WORKGROUP         Service: 0x1d Flags: 0x0004
+WORKGROUP         Service: 0x1e Flags: 0x0084
+Adapter address: 00:00:00:00:00:00
+Version major: 0x00 (0)
+Version minor: 0x00 (0)
+Duration: 0x0000 (0)
+FRMRs Received: 0x%04 (0)
+FRMRs Transmitted: 0x%04 (0)
+IFrame Receive errors: 0x%04 (0)
+Transmit aborts: 0x%04 (0)
+Transmitted: 0x%08 (0)
+Received: 0x%08 (0)
+IFrame transmit errors: 0x%04 (0)
+No receive buffers: 0x%04 (0)
+tl timeouts: 0x%04 (0)
+ti timeouts: 0x%04 (0)
+Free NCBS: 0x%04 (0)
+NCBS: 0x%04 (0)
+Max NCBS: 0x%04 (0)
+No transmit buffers: 0x%04 (0)
+Max datagram: 0x%04 (0)
+Pending sessions: 0x%04 (0)
+Max sessions: 0x%04 (0)
+Packet sessions: 0x%04 (0)
+
+Packet dump for Host 10.0.0.103:
+
+Incomplete packet, 173 bytes long.
+Transaction ID: 0x03a5 (933)
+Flags: 0x8400 (33792)
+Question count: 0x0000 (0)
+Answer count: 0x0001 (1)
+Name service count: 0x0000 (0)
+Additional record count: 0x0000 (0)
+Question name:  CKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Question type: 0x0021 (33)
+Question class: 0x0001 (1)
+Time to live: 0x00000000 (0)
+Rdata length: 0x0077 (119)
+Number of names: 0x04 (4)
+Names received:
+SECURITYNIK-WIN   Service: 0x00 Flags: 0x0004
+WORKGROUP         Service: 0x00 Flags: 0x0084
+SECURITYNIK-WIN   Service: 0x20 Flags: 0x0004
+WORKGROUP         Service: 0x1e Flags: 0x0084
+Adapter address: 08:00:27:ec:69:d7
+Version major: 0x00 (0)
+Version minor: 0x00 (0)
+Duration: 0x0000 (0)
+FRMRs Received: 0x%04 (0)
+FRMRs Transmitted: 0x%04 (0)
+IFrame Receive errors: 0x%04 (0)
+Transmit aborts: 0x%04 (0)
+Transmitted: 0x%08 (0)
+Received: 0x%08 (0)
+IFrame transmit errors: 0x%04 (0)
+No receive buffers: 0x%04 (0)
+tl timeouts: 0x%04 (0)
+ti timeouts: 0x%04 (0)
+Free NCBS: 0x%04 (0)
+NCBS: 0x%04 (0)
+Max NCBS: 0x%04 (0)
+No transmit buffers: 0x%04 (0)
+Max datagram: 0x%04 (0)
+Pending sessions: 0x%04 (0)
+Max sessions: 0x%04 (0)
+Packet sessions: 0x%04 (0)
+
+Packet dump for Host 10.0.0.104:
+
+Incomplete packet, 173 bytes long.
+Transaction ID: 0x03a5 (933)
+Flags: 0x8400 (33792)
+Question count: 0x0000 (0)
+Answer count: 0x0001 (1)
+Name service count: 0x0000 (0)
+Additional record count: 0x0000 (0)
+Question name:  CKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Question type: 0x0021 (33)
+Question class: 0x0001 (1)
+Time to live: 0x00000000 (0)
+Rdata length: 0x0077 (119)
+Number of names: 0x04 (4)
+Names received:
+SECURITYNIK-2K3   Service: 0x00 Flags: 0x0004
+SECURITYNIK-2K3   Service: 0x20 Flags: 0x0004
+WORKGROUP         Service: 0x00 Flags: 0x0084
+WORKGROUP         Service: 0x1e Flags: 0x0084
+Adapter address: 08:00:27:2c:3e:44
+Version major: 0x00 (0)
+Version minor: 0x00 (0)
+Duration: 0x0000 (0)
+FRMRs Received: 0x%04 (0)
+FRMRs Transmitted: 0x%04 (0)
+IFrame Receive errors: 0x%04 (0)
+Transmit aborts: 0x%04 (0)
+Transmitted: 0x%08 (0)
+Received: 0x%08 (0)
+IFrame transmit errors: 0x%04 (0)
+No receive buffers: 0x%04 (0)
+tl timeouts: 0x%04 (0)
+ti timeouts: 0x%04 (0)
+Free NCBS: 0x%04 (0)
+NCBS: 0x%04 (0)
+Max NCBS: 0x%04 (0)
+No transmit buffers: 0x%04 (0)
+Max datagram: 0x%04 (0)
+Pending sessions: 0x%04 (0)
+Max sessions: 0x%04 (63232)
+Packet sessions: 0x%04 (0)

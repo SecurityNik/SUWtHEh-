@@ -1,0 +1,69 @@
+
+===================================================================
+Follow: tcp,ascii
+Filter: tcp.stream eq 6522
+Node 0: 10.0.0.102:48306
+Node 1: 10.0.0.105:80
+0
+
+	0
+
+0
+
+209
+OPTIONS / HTTP/1.1
+Host: 10.0.0.105
+Access-Control-Request-Method: GET
+Origin: example.com
+Connection: close
+User-Agent: Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+
+
+	0
+
+	1100
+HTTP/1.1 200 OK
+Date: Mon, 12 Feb 2018 00:51:43 GMT
+Server: Apache/2.2.8 (Ubuntu) DAV/2
+X-Powered-By: PHP/5.2.4-2ubuntu5.10
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+37b
+<html><head><title>Metasploitable2 - Linux</title></head><body>
+<pre>
+
+                _                  _       _ _        _     _      ____  
+ _ __ ___   ___| |_ __ _ ___ _ __ | | ___ (_) |_ __ _| |__ | | ___|___ \ 
+| '_ ` _ \ / _ \ __/ _` / __| '_ \| |/ _ \| | __/ _` | '_ \| |/ _ \ __) |
+| | | | | |  __/ || (_| \__ \ |_) | | (_) | | || (_| | |_) | |  __// __/ 
+|_| |_| |_|\___|\__\__,_|___/ .__/|_|\___/|_|\__\__,_|_.__/|_|\___|_____|
+                            |_|                                          
+
+
+Warning: Never expose this VM to an untrusted network!
+
+Contact: msfdev[at]metasploit.com
+
+Login with msfadmin/msfadmin to get started
+
+
+</pre>
+<ul>
+<li><a href="/twiki/">TWiki</a></li>
+<li><a href="/phpMyAdmin/">phpMyAdmin</a></li>
+<li><a href="/mutillidae/">Mutillidae</a></li>
+<li><a href="/dvwa/">DVWA</a></li>
+<li><a href="/dav/">WebDAV</a></li>
+</ul>
+</body>
+</html>
+
+
+
+	5
+0
+
+
+===================================================================

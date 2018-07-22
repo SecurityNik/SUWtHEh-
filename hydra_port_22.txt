@@ -1,0 +1,2 @@
+# Hydra v8.6 run at 2018-02-16 01:46:08 on 10.0.0.105 ssh (hydra -L userlist.txt -P myPasswd.lst -o hydra_port_22.txt 10.0.0.105 ssh)
+# Hydra v8.6 run at 2018-02-16 01:47:08 on 10.0.0.105 ssh (hydra -L userlist.txt -P myPasswd.lst -o hydra_port_22.txt 10.0.0.105 ssh)

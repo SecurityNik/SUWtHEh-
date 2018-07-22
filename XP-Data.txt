@@ -1,0 +1,14 @@
+Archive:  XP-data.zip
+ Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
+--------  ------  ------- ---- ---------- ----- --------  ----
+ 1045970  Defl:N   996660   5% 2018-03-04 02:09 5edbc547  1-MB-Test.docx
+10723331  Defl:N 10598595   1% 2018-03-04 02:10 21707cbf  10-MB-Test.docx
+10471397  Defl:N  7705807  26% 2018-03-04 02:09 4c77df6d  10-MB-Test.xlsx
+       0  Stored        0   0% 2018-03-11 03:40 00000000  BIO-DATA/
+    4748  Defl:N     2533  47% 2018-03-04 02:01 88ad46d8  Credit-Card-data.csv
+  183081  Defl:N   151153  17% 2018-03-04 02:02 daa2e8a1  Credit-Card-data.pdf
+   33792  Defl:N     9789  71% 2018-03-04 02:02 adb39f3b  Credit-Card-data.xls
+  219783  Defl:N   174505  21% 2018-03-04 02:07 7803d895  data1.xlsx
+       0  Stored        0   0% 2018-03-11 03:40 00000000  HISTORICAL-DATA/
+--------          -------  ---                            -------
+22682102         19639042  13%                            9 files

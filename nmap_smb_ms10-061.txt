@@ -1,0 +1,32 @@
+# Nmap 7.60 scan initiated Tue Feb 13 22:06:40 2018 as: nmap -n -iL dns_enum_hosts.txt --script=smb-vuln-ms10-061 -p 445 -oN nmap_smb_ms10-061.txt
+Nmap scan report for 10.0.0.106
+Host is up (0.0019s latency).
+
+PORT    STATE SERVICE
+445/tcp open  microsoft-ds
+MAC Address: 08:00:27:69:A9:62 (Oracle VirtualBox virtual NIC)
+
+Host script results:
+|_smb-vuln-ms10-061: ERROR: Script execution failed (use -d to debug)
+
+Nmap scan report for 10.0.0.105
+Host is up (0.00023s latency).
+
+PORT    STATE SERVICE
+445/tcp open  microsoft-ds
+MAC Address: 08:00:27:7E:0F:BE (Oracle VirtualBox virtual NIC)
+
+Host script results:
+|_smb-vuln-ms10-061: false
+
+Nmap scan report for 10.0.0.104
+Host is up (0.0020s latency).
+
+PORT    STATE SERVICE
+445/tcp open  microsoft-ds
+MAC Address: 08:00:27:2C:3E:44 (Oracle VirtualBox virtual NIC)
+
+Host script results:
+|_smb-vuln-ms10-061: NT_STATUS_OBJECT_NAME_NOT_FOUND
+
+# Nmap done at Tue Feb 13 22:06:41 2018 -- 5 IP addresses (3 hosts up) scanned in 0.80 seconds

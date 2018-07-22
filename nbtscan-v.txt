@@ -1,0 +1,77 @@
+Doing NBT name scan for addresses from dns_enum_hosts.txt
+
+
+NetBIOS Name Table for Host 10.0.0.90:
+
+Incomplete packet, 191 bytes long.
+Name             Service          Type             
+----------------------------------------
+DC               <00>             UNIQUE
+SECURITYNIK      <00>              GROUP
+SECURITYNIK      <1c>              GROUP
+DC               <20>             UNIQUE
+SECURITYNIK      <1b>             UNIQUE
+
+Adapter address: 08:00:27:74:45:7d
+----------------------------------------
+
+NetBIOS Name Table for Host 10.0.0.106:
+
+Incomplete packet, 191 bytes long.
+Name             Service          Type             
+----------------------------------------
+SECURITYNIK-XP   <00>             UNIQUE
+SECURITYNIK-XP   <20>             UNIQUE
+WORKGROUP        <00>              GROUP
+WORKGROUP        <1e>              GROUP
+
+Adapter address: 08:00:27:69:a9:62
+----------------------------------------
+
+NetBIOS Name Table for Host 10.0.0.105:
+
+Incomplete packet, 335 bytes long.
+Name             Service          Type             
+----------------------------------------
+METASPLOITABLE   <00>             UNIQUE
+METASPLOITABLE   <03>             UNIQUE
+METASPLOITABLE   <20>             UNIQUE
+METASPLOITABLE   <00>             UNIQUE
+METASPLOITABLE   <03>             UNIQUE
+METASPLOITABLE   <20>             UNIQUE
+__MSBROWSE__  <01>              GROUP
+WORKGROUP        <00>              GROUP
+WORKGROUP        <1d>             UNIQUE
+WORKGROUP        <1e>              GROUP
+WORKGROUP        <00>              GROUP
+WORKGROUP        <1d>             UNIQUE
+WORKGROUP        <1e>              GROUP
+
+Adapter address: 00:00:00:00:00:00
+----------------------------------------
+
+NetBIOS Name Table for Host 10.0.0.103:
+
+Incomplete packet, 173 bytes long.
+Name             Service          Type             
+----------------------------------------
+SECURITYNIK-WIN  <00>             UNIQUE
+WORKGROUP        <00>              GROUP
+SECURITYNIK-WIN  <20>             UNIQUE
+WORKGROUP        <1e>              GROUP
+
+Adapter address: 08:00:27:ec:69:d7
+----------------------------------------
+
+NetBIOS Name Table for Host 10.0.0.104:
+
+Incomplete packet, 173 bytes long.
+Name             Service          Type             
+----------------------------------------
+SECURITYNIK-2K3  <00>             UNIQUE
+SECURITYNIK-2K3  <20>             UNIQUE
+WORKGROUP        <00>              GROUP
+WORKGROUP        <1e>              GROUP
+
+Adapter address: 08:00:27:2c:3e:44
+----------------------------------------

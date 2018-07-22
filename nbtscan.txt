@@ -1,0 +1,9 @@
+Doing NBT name scan for addresses from dns_enum_hosts.txt
+
+IP address       NetBIOS Name     Server    User             MAC address      
+------------------------------------------------------------------------------
+10.0.0.90        DC               <server>  <unknown>        08:00:27:74:45:7d
+10.0.0.106       SECURITYNIK-XP   <server>  <unknown>        08:00:27:69:a9:62
+10.0.0.105       METASPLOITABLE   <server>  METASPLOITABLE   00:00:00:00:00:00
+10.0.0.103       SECURITYNIK-WIN  <server>  <unknown>        08:00:27:ec:69:d7
+10.0.0.104       SECURITYNIK-2K3  <server>  <unknown>        08:00:27:2c:3e:44
