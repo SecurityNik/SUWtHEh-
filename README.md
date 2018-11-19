@@ -11,6 +11,7 @@ This site contains the files used for analysis of SecurityNik Inc.'s compromise.
 
 NOTE: The .exe file above "Nik_in_Vegas.exe" is actually called "Pam_In_Guyana.exe" in the book. Therefore if you are going through the book, simplay replace "Pam_In_Guyana.exe" with "Nik_In_Vegas.exe". 
 
+
 Enjoy
 Nik Alleyne
 www.securitynik.com
