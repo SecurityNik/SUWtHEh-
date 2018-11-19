@@ -14,7 +14,3 @@ NOTE: The .exe file above "Nik_in_Vegas.exe" is actually called "Pam_In_Guyana.e
 Enjoy
 Nik Alleyne
 www.securitynik.com
-
-
-
-
