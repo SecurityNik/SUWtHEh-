@@ -7,11 +7,12 @@
                           https://www.securitynik.com
                         
                    
-This site contains the files used for analysis of SecurityNik Inc.'s compromise. These are mostly the the packets and some logs. The Splunk log file is over 3GB. If you are reading the book and would like a copy or have an area I can store this 3GB file, then reach out to me at nikalleyne at gmail dot com.
+This site contains the files used for analysis of SecurityNik Inc.'s compromise in the book Hack and Detect. These files represents all the packets, logs and other output files which were created as a result of executing various commands. The original Splunk log file was over 3GB. As a result, I've split that file into multiple 24MB size files. The numbering is sequential so if you wish you can reinsert this data into Splunk or simply use your command line tools to analyze the event files one after the other.
 
 NOTE: The .exe file above "Nik_in_Vegas.exe" is actually called "Pam_In_Guyana.exe" in the book. Therefore if you are going through the book, simplay replace "Pam_In_Guyana.exe" with "Nik_In_Vegas.exe". 
 
+Feel free to drop me a line and let me know your thoughts on the book.
 
-Enjoy
+Enjoy: 
 Nik Alleyne
 www.securitynik.com
