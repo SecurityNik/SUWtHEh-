@@ -46,6 +46,7 @@ Most importantly, anyone looking for a good read :-)
 
 
 Here are some feedback you may be interested in.
+
 "Nik's approach to viewing both the attacker and defender's side of the compromise is an amazing way to correlate the causes and consequences of every action in an attack. This not only helps the reader learn, but is entertaining and will cause readers to flip all around the book to make sure they catch every detail." 
 Tyler Hudak, Information Security
 
