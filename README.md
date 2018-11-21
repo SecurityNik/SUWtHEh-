@@ -46,7 +46,7 @@ The main idea behind this book, is to leverage the Cyber Kill Chain to teach you
 
 <b><h2>Looking to follow along and get the full experience without building a lab?</h2></b>
 <ul>
-	<li>Grab the full set of  sample pcaps, logs and other data from my GitHub page at <b>https://github.com/SecurityNik/SUWtHEh- </li></b>.
+	<li>Grab the full set of  sample pcaps, logs and other data from my GitHub page at <b>https://github.com/SecurityNik/SUWtHEh-  Ohh!! You are here already :-) </li></b>.
 </ul>
 <b><h2>Looking for sample chapters? Don't worry I got you!</h2></b>
 <ul> 
