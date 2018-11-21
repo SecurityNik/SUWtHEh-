@@ -24,8 +24,8 @@ More importantly, for each of the attacks that Nakia detects, she must provide a
 
 
 How will this book help you?
-Understand the Cyber Kill Chain from a practical perspective. Fully hands on! No fluff!!
-Learn not just how attacks can be done but how they can be detected.
+<br>Understand the Cyber Kill Chain from a practical perspective. Fully hands on! No fluff!!
+<br>Learn not just how attacks can be done but how they can be detected.
 Learn network forensics.
 Learn how misconfigurations can be taken advantage of by attackers.
 Learn how to put mitigation strategies in place.
