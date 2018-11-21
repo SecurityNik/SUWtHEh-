@@ -20,7 +20,7 @@ An important note, as Neysa (Threat Actor) hacks, she plans to use the Lockheed 
 
 For each of the attacks Neysa (Threat Actor) performs, where possible, Nakia (newly hired Cybersecurity Ninja) will leverage her Cybersecurity Ninja awesomeness, to detect Neysa's actions. 
 
-More importantly, for each of the attacks that Nakia detects, she must provide answers to the who, what, when, where, why and how to Saadia, the owner of SecurityNik Inc. These are critical questions every incident handler must answer. Now, the reality is, in many cases you may not be able to tell â€œwhyâ€ it happened, as you don't typically know your adversaries motive. However, Nakia will do her best to provide the necessary guidance, thus ensuring she gives Saadia actionable intelligence to decide on the way forward. 
+More importantly, for each of the attacks that Nakia detects, she must provide answers to the who, what, when, where, why and how to Saadia, the owner of SecurityNik Inc. These are critical questions every incident handler must answer. Now, the reality is, in many cases you may not be able to tell "why" it happened, as you don't typically know your adversaries motive. However, Nakia will do her best to provide the necessary guidance, thus ensuring she gives Saadia actionable intelligence to decide on the way forward. 
 
 
 How will this book help you?
