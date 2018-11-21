@@ -60,6 +60,6 @@ NOTE: The .exe file above "Nik_in_Vegas.exe" is actually called "Pam_In_Guyana.e
 
 Feel free to drop me a line and let me know your thoughts on the book.
 
-Enjoy: 
-Nik Alleyne
-www.securitynik.com
+Enjoy:<br> 
+Nik Alleyne<br>
+<b>www.securitynik.com</b>
