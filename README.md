@@ -1,12 +1,12 @@
 # SUWtHEh-
-                          Learning by Practising 
-                                 Hack & Detect 
-     A Practical Guide to Hacking and its Detection via network forensics
-                                  
-                                 Nik Alleyne        
-                        https://www.securitynik.com
-        Get the book on Amazon @ https://www.amazon.com/dp/1731254458
-                   
+<h5>Learning By Practicing</h5>
+<b><h1>Hack & Detect</h1></b>
+<h5>A Practical Guide to Hacking and its Detection via network forensics</h5><br><br>
+<h5>Nik Alleyne</h5>
+<h5>https://www.securitynik.com</h5>
+
+<b><h3>Get the book on Amazon @ https://www.amazon.com/dp/1731254458</h3></b>
+
 This site contains the files used for analysis of SecurityNik Inc.'s compromise in the book Hack and Detect. These files represents all the packets, logs and other output files which were created as a result of executing various commands. The original Splunk log file was over 3GB. As a result, I've split that file into multiple 24MB size files. The numbering is sequential so if you wish you can reinsert this data into Splunk or simply use your command line tools to analyze the event files one after the other.
 
 ---------------------------------------------------------------------------------------------------------------
