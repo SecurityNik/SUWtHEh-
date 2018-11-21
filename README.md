@@ -1,10 +1,10 @@
 # SUWtHEh-
 Learning By Practicing
-<h1>Hack & Detect</h1>
+Hack & Detect
 A Practical Guide to Hacking and its Detection via network forensics
 
 Nik Alleyne
-<br>https://www.securitynik.com
+https://www.securitynik.com
 
 <b><h3>Get the book on Amazon @ https://www.amazon.com/dp/1731254458</h3></b>
 
