@@ -58,11 +58,14 @@ Daniel McAuley, Manager Infrastructure and Technology Group
 
 Looking to follow along and get the full experience without building a lab?
 Grab the full set of sample pcaps, logs and other data from my GitHub page at https://github.com/SecurityNik/SUWtHEh- 
-. 
+
+ 
 Looking for sample chapters? Don't worry I got you!
 Grab them from this link http://bit.ly/NikAlleyne-Hack-and-Detect-Book
 
+
 Alternatively, you can visit my blog directly at https://www.securitynik.com.
+
 ---------------------------------------------------------------------------------------------------------------
 
 NOTE: The .exe file above "Nik_in_Vegas.exe" is actually called "Pam_In_Guyana.exe" in the book. Therefore if you are going through the book, simplay replace "Pam_In_Guyana.exe" with "Nik_In_Vegas.exe". 
