@@ -24,40 +24,24 @@ More importantly, for each of the attacks that Nakia detects, she must provide a
 
 
 How will this book help you?
-
 Understand the Cyber Kill Chain from a practical perspective. Fully hands on! No fluff!!
-
 Learn not just how attacks can be done but how they can be detected.
-
 Learn network forensics.
-
 Learn how misconfigurations can be taken advantage of by attackers.
-
 Learn how to put mitigation strategies in place.
-
 Learn how attackers can gain access to your isolated LANS/subnets which have no internet access via pivoting/lateral movement.
-
 Learn how exfiltration can be done via relays.
-
 Learn about various command and control (C2) mechanisms leveraging different common ports and/or protocols.
 
 
 Who is this book really for?
-
 Individuals now starting off their cybersecurity careers.
-
 Individuals working in a Cyber/Security Operations Center (C/SOC).
-
 Red Team practitioners who may wish to understand how their efforts may be detected.
-
 General practitioners of cybersecurity.
-
 Experienced Cybersecurity Ninjas who may be looking for a trick or two.
-
 Anyone who just wishes to learn more about cybersecurity, hacking and its detection.
-
 Anyone involved in network forensics.
-
 Most importantly, anyone looking for a good read :-)
 
 
