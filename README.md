@@ -61,6 +61,7 @@ Grab the full set of sample pcaps, logs and other data from my GitHub page at ht
 . 
 Looking for sample chapters? Don't worry I got you!
 Grab them from this link http://bit.ly/NikAlleyne-Hack-and-Detect-Book
+
 Alternatively, you can visit my blog directly at https://www.securitynik.com.
 ---------------------------------------------------------------------------------------------------------------
 
