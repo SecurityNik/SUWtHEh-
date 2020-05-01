@@ -49,7 +49,7 @@ The main idea behind this book, is to leverage the Cyber Kill Chain to teach you
 </ul>
 <b><h2>Looking for sample chapters? Don't worry I got you!</h2></b>
 <ul> 
-	<li>Grab them from this link <b>http://bit.ly/NikAlleyne-Hack-and-Detect-Book</b></li> 
+	<li>Grab them from this link <b>https://bit.ly/NikAlleyne-Hackand-Detect</b></li> 
 	<li>Alternatively, you can visit my blog directly at <b>https://www.securitynik.com</b>.</li>
 </ul>
 
